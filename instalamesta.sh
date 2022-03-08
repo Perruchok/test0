@@ -3,7 +3,7 @@
 sudo apt-get update
 #
 # Instala VS code (el ejecutable está en ~/Downloads)
-sudo apt install /home/diego/Downloads/code_1.64.2-1644445741_amd64.deb
+sudo apt install /home/diego/test0/code_1.64.2-1644445741_amd64.deb
 # to unisntall : sudo apt autoremove code
 #
 # Instala git 
